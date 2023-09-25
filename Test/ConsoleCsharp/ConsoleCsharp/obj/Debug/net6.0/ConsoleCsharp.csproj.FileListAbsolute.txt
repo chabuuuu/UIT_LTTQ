@@ -1,0 +1,15 @@
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\bin\Debug\net6.0\ConsoleCsharp.exe
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\bin\Debug\net6.0\ConsoleCsharp.deps.json
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\bin\Debug\net6.0\ConsoleCsharp.runtimeconfig.json
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\bin\Debug\net6.0\ConsoleCsharp.dll
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\bin\Debug\net6.0\ConsoleCsharp.pdb
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.AssemblyInfoInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.AssemblyInfo.cs
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.dll
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\refint\ConsoleCsharp.dll
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.pdb
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ConsoleCsharp.genruntimeconfig.cache
+D:\Workspace\UIT\UIT_LTTQ\Test\ConsoleCsharp\ConsoleCsharp\obj\Debug\net6.0\ref\ConsoleCsharp.dll

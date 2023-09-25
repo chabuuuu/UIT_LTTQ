@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhaiBaoLop_ThuocTinhTruyCap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoiTaoLop_KhoiTaoGiaTriChoThuocTinh", "KhoiTaoLop_KhoiTaoGiaTriChoThuocTinh\KhoiTaoLop_KhoiTaoGiaTriChoThuocTinh.csproj", "{5F505F3E-527F-40D7-A331-9E57D719920C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoiTaoGiaTrIChoThuocTinh_ObjectIntializer", "KhoiTaoGiaTrIChoThuocTinh_ObjectIntializer\KhoiTaoGiaTrIChoThuocTinh_ObjectIntializer.csproj", "{5D17845D-E398-4954-8CAC-7F05D9815491}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{5F505F3E-527F-40D7-A331-9E57D719920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F505F3E-527F-40D7-A331-9E57D719920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F505F3E-527F-40D7-A331-9E57D719920C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D17845D-E398-4954-8CAC-7F05D9815491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D17845D-E398-4954-8CAC-7F05D9815491}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D17845D-E398-4954-8CAC-7F05D9815491}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D17845D-E398-4954-8CAC-7F05D9815491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

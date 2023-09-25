@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\bin\Debug\PhuongThucLopObject_phuongThucToString().exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\bin\Debug\PhuongThucLopObject_phuongThucToString().exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\bin\Debug\PhuongThucLopObject_phuongThucToString().pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\obj\Debug\PhuongThucLopObject_phuongThucToString().csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\obj\Debug\PhuongThucLopObject_phuongThucToString().csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\obj\Debug\PhuongThucLopObject_phuongThucToString().csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\obj\Debug\PhuongThucLopObject_phuongThucToString().exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\PhuongThucLopObject_phuongThucToString()\obj\Debug\PhuongThucLopObject_phuongThucToString().pdb

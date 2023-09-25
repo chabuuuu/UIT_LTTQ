@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\bin\Debug\ToanTuChuyenDoi_CacViDu.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\bin\Debug\ToanTuChuyenDoi_CacViDu.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\bin\Debug\ToanTuChuyenDoi_CacViDu.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\obj\Debug\ToanTuChuyenDoi_CacViDu.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\obj\Debug\ToanTuChuyenDoi_CacViDu.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\obj\Debug\ToanTuChuyenDoi_CacViDu.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\obj\Debug\ToanTuChuyenDoi_CacViDu.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ToanTuChuyenDoi_CacViDu\obj\Debug\ToanTuChuyenDoi_CacViDu.pdb

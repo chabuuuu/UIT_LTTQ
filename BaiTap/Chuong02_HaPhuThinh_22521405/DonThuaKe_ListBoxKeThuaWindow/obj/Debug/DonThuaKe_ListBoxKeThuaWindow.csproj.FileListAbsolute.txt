@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\bin\Debug\DonThuaKe_ListBoxKeThuaWindow.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\bin\Debug\DonThuaKe_ListBoxKeThuaWindow.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\bin\Debug\DonThuaKe_ListBoxKeThuaWindow.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\obj\Debug\DonThuaKe_ListBoxKeThuaWindow.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\obj\Debug\DonThuaKe_ListBoxKeThuaWindow.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\obj\Debug\DonThuaKe_ListBoxKeThuaWindow.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\obj\Debug\DonThuaKe_ListBoxKeThuaWindow.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\DonThuaKe_ListBoxKeThuaWindow\obj\Debug\DonThuaKe_ListBoxKeThuaWindow.pdb

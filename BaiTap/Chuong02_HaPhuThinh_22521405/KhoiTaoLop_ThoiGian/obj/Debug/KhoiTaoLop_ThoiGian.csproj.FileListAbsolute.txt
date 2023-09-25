@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\bin\Debug\KhoiTaoLop_ThoiGian.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\bin\Debug\KhoiTaoLop_ThoiGian.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\bin\Debug\KhoiTaoLop_ThoiGian.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\obj\Debug\KhoiTaoLop_ThoiGian.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\obj\Debug\KhoiTaoLop_ThoiGian.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\obj\Debug\KhoiTaoLop_ThoiGian.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\obj\Debug\KhoiTaoLop_ThoiGian.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\KhoiTaoLop_ThoiGian\obj\Debug\KhoiTaoLop_ThoiGian.pdb

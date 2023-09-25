@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\bin\Debug\ConTroThis_SetYear.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\bin\Debug\ConTroThis_SetYear.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\bin\Debug\ConTroThis_SetYear.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\obj\Debug\ConTroThis_SetYear.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\obj\Debug\ConTroThis_SetYear.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\obj\Debug\ConTroThis_SetYear.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\obj\Debug\ConTroThis_SetYear.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\ConTroThis_SetYear\obj\Debug\ConTroThis_SetYear.pdb

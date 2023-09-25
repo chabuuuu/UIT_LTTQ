@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\bin\Debug\FilterValue_Property.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\bin\Debug\FilterValue_Property.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\bin\Debug\FilterValue_Property.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\obj\Debug\FilterValue_Property.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\obj\Debug\FilterValue_Property.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\obj\Debug\FilterValue_Property.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\obj\Debug\FilterValue_Property.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\FilterValue_Property\obj\Debug\FilterValue_Property.pdb

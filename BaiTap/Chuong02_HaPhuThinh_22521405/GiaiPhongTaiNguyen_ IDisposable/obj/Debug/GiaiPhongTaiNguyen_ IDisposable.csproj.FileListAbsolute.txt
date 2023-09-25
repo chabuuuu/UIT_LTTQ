@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\bin\Debug\GiaiPhongTaiNguyen_ IDisposable.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\bin\Debug\GiaiPhongTaiNguyen_ IDisposable.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\bin\Debug\GiaiPhongTaiNguyen_ IDisposable.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\obj\Debug\GiaiPhongTaiNguyen_ IDisposable.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\obj\Debug\GiaiPhongTaiNguyen_ IDisposable.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\obj\Debug\GiaiPhongTaiNguyen_ IDisposable.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\obj\Debug\GiaiPhongTaiNguyen_ IDisposable.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_ IDisposable\obj\Debug\GiaiPhongTaiNguyen_ IDisposable.pdb

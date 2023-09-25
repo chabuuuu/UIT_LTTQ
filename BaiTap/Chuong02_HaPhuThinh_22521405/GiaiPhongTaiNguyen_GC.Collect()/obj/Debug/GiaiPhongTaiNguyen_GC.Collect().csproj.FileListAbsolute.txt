@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\bin\Debug\GiaiPhongTaiNguyen_GC.Collect().exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\bin\Debug\GiaiPhongTaiNguyen_GC.Collect().exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\bin\Debug\GiaiPhongTaiNguyen_GC.Collect().pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\obj\Debug\GiaiPhongTaiNguyen_GC.Collect().csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\obj\Debug\GiaiPhongTaiNguyen_GC.Collect().csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\obj\Debug\GiaiPhongTaiNguyen_GC.Collect().csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\obj\Debug\GiaiPhongTaiNguyen_GC.Collect().exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\GiaiPhongTaiNguyen_GC.Collect()\obj\Debug\GiaiPhongTaiNguyen_GC.Collect().pdb

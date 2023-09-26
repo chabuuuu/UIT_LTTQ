@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\bin\Debug\BaiTap4_PhanSo.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\bin\Debug\BaiTap4_PhanSo.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\bin\Debug\BaiTap4_PhanSo.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\obj\Debug\BaiTap4_PhanSo.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\obj\Debug\BaiTap4_PhanSo.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\obj\Debug\BaiTap4_PhanSo.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\obj\Debug\BaiTap4_PhanSo.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi1\BaiTap4_PhanSo\obj\Debug\BaiTap4_PhanSo.pdb

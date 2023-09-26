@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\obj\Debug\BaiTap2_MangSo.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\obj\Debug\BaiTap2_MangSo.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\obj\Debug\BaiTap2_MangSo.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\bin\Debug\BaiTap2_MangSo.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\bin\Debug\BaiTap2_MangSo.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\bin\Debug\BaiTap2_MangSo.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\obj\Debug\BaiTap2_MangSo.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap2_MangSo\obj\Debug\BaiTap2_MangSo.pdb

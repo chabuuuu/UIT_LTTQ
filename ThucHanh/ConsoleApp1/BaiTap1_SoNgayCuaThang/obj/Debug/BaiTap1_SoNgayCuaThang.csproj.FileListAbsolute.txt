@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\bin\Debug\BaiTap1_SoNgayCuaThang.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\bin\Debug\BaiTap1_SoNgayCuaThang.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\bin\Debug\BaiTap1_SoNgayCuaThang.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\obj\Debug\BaiTap1_SoNgayCuaThang.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\obj\Debug\BaiTap1_SoNgayCuaThang.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\obj\Debug\BaiTap1_SoNgayCuaThang.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\obj\Debug\BaiTap1_SoNgayCuaThang.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap1_SoNgayCuaThang\obj\Debug\BaiTap1_SoNgayCuaThang.pdb

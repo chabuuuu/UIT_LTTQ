@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\bin\Debug\BaiTap3_MaTran.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\bin\Debug\BaiTap3_MaTran.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\bin\Debug\BaiTap3_MaTran.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\obj\Debug\BaiTap3_MaTran.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\obj\Debug\BaiTap3_MaTran.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\obj\Debug\BaiTap3_MaTran.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\obj\Debug\BaiTap3_MaTran.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\ConsoleApp1\BaiTap3_MaTran\obj\Debug\BaiTap3_MaTran.pdb

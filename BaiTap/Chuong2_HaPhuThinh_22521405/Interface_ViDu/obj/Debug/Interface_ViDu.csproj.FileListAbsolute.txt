@@ -1,0 +1,16 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\bin\Debug\Interface_ViDu.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\bin\Debug\Interface_ViDu.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\bin\Debug\Interface_ViDu.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong02_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\bin\Debug\Interface_ViDu.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\bin\Debug\Interface_ViDu.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\bin\Debug\Interface_ViDu.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_HaPhuThinh_22521405\Interface_ViDu\obj\Debug\Interface_ViDu.pdb

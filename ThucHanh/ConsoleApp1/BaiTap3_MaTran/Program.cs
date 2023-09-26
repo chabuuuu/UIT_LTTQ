@@ -78,7 +78,7 @@ namespace BaiTap3_MaTran
                 {
                     if (matrix[i, j] == k)
                     {
-                        return j;
+                        return j + 1;
                     }
                 }
             }
@@ -118,19 +118,26 @@ namespace BaiTap3_MaTran
             }
             int nRowAfterDelete = nRow - 1;
             int[,] deletedMatrix = new int[nRowAfterDelete, nColumn];
+            this.nRow = nRowAfterDelete;
+            bool meetDeleteRow = false;
             for (int i = 0; i < nRow; i++)
             {
-                int newI = i;
                 if (i == k)
                 {
-                    newI--;
+                    meetDeleteRow = true;
                 }
                     for (int j = 0; j < nColumn; j++)
                     {
+                        if (meetDeleteRow)
+                    {
+                        deletedMatrix[i, j] = this.matrix[i + 1, j];
+                    }
+                    else
+                    {
                         deletedMatrix[i, j] = this.matrix[i, j];
                     }
+                }
             }
-            this.nRow = nRowAfterDelete;
             this.matrix = new int[nRow, nColumn];
             this.matrix = deletedMatrix;
         }
@@ -145,14 +152,23 @@ namespace BaiTap3_MaTran
             int nColumnAfterDelete = nColumn - 1;
             this.nColumn = nColumnAfterDelete;
             int[,] deletedMatrix = new int[nRow, nColumn];
+            bool meetDeleteColumn = false;
             for (int i = 0; i < nRow; i++)
             {
+                meetDeleteColumn = false;
                     for (int j = 0; j < nColumn; j++)
                     {
-                        if (j != k)
+                    if (j == k)
+                    {
+                        meetDeleteColumn = true;
+                    }
+                    if (meetDeleteColumn)
+                    {
+                        deletedMatrix[i, j] = this.matrix[i, j + 1];
+                    }
+                    else
                     {
                         deletedMatrix[i, j] = this.matrix[i, j];
-
                     }
                 }
             }

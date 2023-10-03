@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\bin\Debug\ArrayListExample_Employee.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\bin\Debug\ArrayListExample_Employee.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\bin\Debug\ArrayListExample_Employee.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\obj\Debug\ArrayListExample_Employee.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\obj\Debug\ArrayListExample_Employee.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\obj\Debug\ArrayListExample_Employee.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\obj\Debug\ArrayListExample_Employee.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ArrayListExample_Employee\obj\Debug\ArrayListExample_Employee.pdb

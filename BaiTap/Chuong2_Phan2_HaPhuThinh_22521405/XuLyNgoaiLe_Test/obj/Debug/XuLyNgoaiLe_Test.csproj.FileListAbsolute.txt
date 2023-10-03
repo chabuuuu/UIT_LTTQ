@@ -6,3 +6,11 @@ D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe
 D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.csproj.CoreCompileInputs.cache
 D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.exe
 D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\bin\Debug\XuLyNgoaiLe_Test.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\bin\Debug\XuLyNgoaiLe_Test.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\bin\Debug\XuLyNgoaiLe_Test.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_Test\obj\Debug\XuLyNgoaiLe_Test.pdb

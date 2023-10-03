@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuLyNgoaiLe_ThrowTest", "XuLyNgoaiLe_ThrowTest\XuLyNgoaiLe_ThrowTest.csproj", "{B5E9F019-946D-49CF-89C5-59F01DEBDB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuLyNgoaiLe_Test", "XuLyNgoaiLe_Test\XuLyNgoaiLe_Test.csproj", "{DD7D42D9-FD6C-4FE8-8935-B01069896072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E9F019-946D-49CF-89C5-59F01DEBDB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E9F019-946D-49CF-89C5-59F01DEBDB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E9F019-946D-49CF-89C5-59F01DEBDB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E9F019-946D-49CF-89C5-59F01DEBDB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7D42D9-FD6C-4FE8-8935-B01069896072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7D42D9-FD6C-4FE8-8935-B01069896072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7D42D9-FD6C-4FE8-8935-B01069896072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7D42D9-FD6C-4FE8-8935-B01069896072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36945C19-CF54-450D-8CB2-04915305489F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\bin\Debug\XuLyNgoaiLe_ThrowTest.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\bin\Debug\XuLyNgoaiLe_ThrowTest.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\bin\Debug\XuLyNgoaiLe_ThrowTest.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\obj\Debug\XuLyNgoaiLe_ThrowTest.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\obj\Debug\XuLyNgoaiLe_ThrowTest.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\obj\Debug\XuLyNgoaiLe_ThrowTest.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\obj\Debug\XuLyNgoaiLe_ThrowTest.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLe_ThrowTest\obj\Debug\XuLyNgoaiLe_ThrowTest.pdb

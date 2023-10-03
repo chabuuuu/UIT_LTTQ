@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToanTuChuyenDoi_CacViDu", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_ViDu", "Interface_ViDu\Interface_ViDu.csproj", "{EECD8014-3412-46F6-AA25-3BF70D39AD6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuLyNgoaiLe_ThowTest", "XuLyNgoaiLe_ThowTest\XuLyNgoaiLe_ThowTest.csproj", "{2E790781-50DB-4490-806C-FB548ECDBB05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuLyNgoaiLe_Test", "XuLyNgoaiLe_Test\XuLyNgoaiLe_Test.csproj", "{DCBC73C2-732A-461C-B211-45688212F77A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{EECD8014-3412-46F6-AA25-3BF70D39AD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EECD8014-3412-46F6-AA25-3BF70D39AD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EECD8014-3412-46F6-AA25-3BF70D39AD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E790781-50DB-4490-806C-FB548ECDBB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E790781-50DB-4490-806C-FB548ECDBB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E790781-50DB-4490-806C-FB548ECDBB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E790781-50DB-4490-806C-FB548ECDBB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBC73C2-732A-461C-B211-45688212F77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBC73C2-732A-461C-B211-45688212F77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBC73C2-732A-461C-B211-45688212F77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBC73C2-732A-461C-B211-45688212F77A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

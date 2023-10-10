@@ -1,0 +1,11 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\bin\Debug\ControlLayout_Anchor.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\bin\Debug\ControlLayout_Anchor.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\bin\Debug\ControlLayout_Anchor.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\ControlLayout_Anchor\obj\Debug\ControlLayout_Anchor.pdb

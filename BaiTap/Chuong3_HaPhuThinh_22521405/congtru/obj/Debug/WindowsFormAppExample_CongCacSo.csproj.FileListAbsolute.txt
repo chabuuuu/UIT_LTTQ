@@ -1,0 +1,11 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\bin\Debug\congtru.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\bin\Debug\congtru.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\bin\Debug\congtru.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\WindowsFormAppExample_CongCacSo.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\WindowsFormAppExample_CongCacSo.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\congtru.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\congtru.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\WindowsFormAppExample_CongCacSo.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\WindowsFormAppExample_CongCacSo.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\congtru.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\congtru\obj\Debug\congtru.pdb

@@ -1,0 +1,11 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\bin\Debug\ControlLayout_Docking.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\bin\Debug\ControlLayout_Docking.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\bin\Debug\ControlLayout_Docking.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\ControlLayout_Docking\obj\Debug\ControlLayout_Docking.pdb

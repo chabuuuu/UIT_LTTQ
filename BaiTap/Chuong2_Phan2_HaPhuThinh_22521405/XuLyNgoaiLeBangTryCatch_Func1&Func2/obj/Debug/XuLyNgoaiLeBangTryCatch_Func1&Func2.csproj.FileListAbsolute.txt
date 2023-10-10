@@ -1,8 +1,0 @@
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\bin\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.exe.config
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\bin\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\bin\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.pdb
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\obj\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.csproj.AssemblyReference.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\obj\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.csproj.SuggestedBindingRedirects.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\obj\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.csproj.CoreCompileInputs.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\obj\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\XuLyNgoaiLeBangTryCatch_Func1&Func2\obj\Debug\XuLyNgoaiLeBangTryCatch_Func1&Func2.pdb

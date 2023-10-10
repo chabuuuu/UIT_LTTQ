@@ -1,8 +1,0 @@
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\bin\Debug\ViDuVeLenhFinally_Test.exe.config
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\bin\Debug\ViDuVeLenhFinally_Test.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\bin\Debug\ViDuVeLenhFinally_Test.pdb
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\obj\Debug\ViDuVeLenhFinally_Test.csproj.AssemblyReference.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\obj\Debug\ViDuVeLenhFinally_Test.csproj.SuggestedBindingRedirects.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\obj\Debug\ViDuVeLenhFinally_Test.csproj.CoreCompileInputs.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\obj\Debug\ViDuVeLenhFinally_Test.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\ViDuVeLenhFinally_Test\obj\Debug\ViDuVeLenhFinally_Test.pdb

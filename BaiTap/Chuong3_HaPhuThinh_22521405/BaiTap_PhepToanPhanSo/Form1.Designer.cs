@@ -194,7 +194,7 @@
             this.Controls.Add(this.labelPhanSo2);
             this.Controls.Add(this.labelPhanSo1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Máy tính phân số";
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

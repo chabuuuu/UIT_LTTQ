@@ -1,8 +1,0 @@
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\bin\Debug\MulticastDelegatesExample_Hello&Swim.exe.config
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\bin\Debug\MulticastDelegatesExample_Hello&Swim.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\bin\Debug\MulticastDelegatesExample_Hello&Swim.pdb
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\obj\Debug\MulticastDelegatesExample_Hello&Swim.csproj.AssemblyReference.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\obj\Debug\MulticastDelegatesExample_Hello&Swim.csproj.SuggestedBindingRedirects.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\obj\Debug\MulticastDelegatesExample_Hello&Swim.csproj.CoreCompileInputs.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\obj\Debug\MulticastDelegatesExample_Hello&Swim.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\MulticastDelegatesExample_Hello&Swim\obj\Debug\MulticastDelegatesExample_Hello&Swim.pdb

@@ -9,3 +9,14 @@ D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_
 D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.csproj.CoreCompileInputs.cache
 D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.exe
 D:\Workspace\UIT\UIT_LTTQ\BaiTap\congtru\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\bin\Debug\BaiTap_PhepToanPhanSo.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\bin\Debug\BaiTap_PhepToanPhanSo.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\bin\Debug\BaiTap_PhepToanPhanSo.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong3_HaPhuThinh_22521405\BaiTap_PhepToanPhanSo\obj\Debug\BaiTap_PhepToanPhanSo.pdb

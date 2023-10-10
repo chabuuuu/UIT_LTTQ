@@ -1,8 +1,0 @@
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\bin\Debug\DynamicBindingExample_Duck&Person.exe.config
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\bin\Debug\DynamicBindingExample_Duck&Person.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\bin\Debug\DynamicBindingExample_Duck&Person.pdb
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\obj\Debug\DynamicBindingExample_Duck&Person.csproj.AssemblyReference.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\obj\Debug\DynamicBindingExample_Duck&Person.csproj.SuggestedBindingRedirects.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\obj\Debug\DynamicBindingExample_Duck&Person.csproj.CoreCompileInputs.cache
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\obj\Debug\DynamicBindingExample_Duck&Person.exe
-D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong2_Phan2_HaPhuThinh_22521405\DynamicBindingExample_Duck&Person\obj\Debug\DynamicBindingExample_Duck&Person.pdb

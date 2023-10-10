@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap_PhepToanPhanSo", "BaiTap_PhepToanPhanSo\BaiTap_PhepToanPhanSo.csproj", "{4311923C-70C7-4B27-B8B3-BFE421ED7F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlLayout_Anchor", "ControlLayout_Anchor\ControlLayout_Anchor.csproj", "{4A2995B7-4B61-4E73-80E5-8AA179A42179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlLayout_Docking", "ControlLayout_Docking\ControlLayout_Docking.csproj", "{666DD6F7-0402-45EB-8269-D9CD6320BCCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTextBox_ChuyenThanhChuHoa", "DemoTextBox_ChuyenThanhChuHoa\DemoTextBox_ChuyenThanhChuHoa.csproj", "{32EA78BA-56F1-4A0B-A939-226786573B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTextBox_ChiChoNhapSo", "DemoTextBox_ChiChoNhapSo\DemoTextBox_ChiChoNhapSo.csproj", "{07F3293D-18BF-4CBE-8E79-7B4282F2161C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormAppExample_Cong2So", "WindowsFormAppExample_Cong2So\WindowsFormAppExample_Cong2So.csproj", "{9CCE4D34-C8BC-4BEC-9AC3-3DBEAC388EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoListBox_KiemTraChuoiCoTrongListBox", "DemoListBox_KiemTraChuoiCoTrongListBox\DemoListBox_KiemTraChuoiCoTrongListBox.csproj", "{971175FD-5689-4815-ACF7-8CB7D7AD5D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuKienSelectedIndexChangedExample_XoaItemTrongListBox", "SuKienSelectedIndexChangedExample_XoaItemTrongListBox\SuKienSelectedIndexChangedExample_XoaItemTrongListBox.csproj", "{E6CCDE22-FD04-4A33-B527-4E4792F6E5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoComboBox_HienThiItemDuocChonLenMessageBox", "DemoComboBox_HienThiItemDuocChonLenMessageBox\DemoComboBox_HienThiItemDuocChonLenMessageBox.csproj", "{E8038C47-8415-47A1-B80D-702D06F109DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoComboxBox_Autocomplete", "DemoComboxBox_Autocomplete\DemoComboxBox_Autocomplete.csproj", "{9C35B4A3-41DF-41D9-B276-E634E78973D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4311923C-70C7-4B27-B8B3-BFE421ED7F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4311923C-70C7-4B27-B8B3-BFE421ED7F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4311923C-70C7-4B27-B8B3-BFE421ED7F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4311923C-70C7-4B27-B8B3-BFE421ED7F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2995B7-4B61-4E73-80E5-8AA179A42179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2995B7-4B61-4E73-80E5-8AA179A42179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2995B7-4B61-4E73-80E5-8AA179A42179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2995B7-4B61-4E73-80E5-8AA179A42179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666DD6F7-0402-45EB-8269-D9CD6320BCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666DD6F7-0402-45EB-8269-D9CD6320BCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666DD6F7-0402-45EB-8269-D9CD6320BCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666DD6F7-0402-45EB-8269-D9CD6320BCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32EA78BA-56F1-4A0B-A939-226786573B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EA78BA-56F1-4A0B-A939-226786573B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EA78BA-56F1-4A0B-A939-226786573B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EA78BA-56F1-4A0B-A939-226786573B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F3293D-18BF-4CBE-8E79-7B4282F2161C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F3293D-18BF-4CBE-8E79-7B4282F2161C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F3293D-18BF-4CBE-8E79-7B4282F2161C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F3293D-18BF-4CBE-8E79-7B4282F2161C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCE4D34-C8BC-4BEC-9AC3-3DBEAC388EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCE4D34-C8BC-4BEC-9AC3-3DBEAC388EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCE4D34-C8BC-4BEC-9AC3-3DBEAC388EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCE4D34-C8BC-4BEC-9AC3-3DBEAC388EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971175FD-5689-4815-ACF7-8CB7D7AD5D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971175FD-5689-4815-ACF7-8CB7D7AD5D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971175FD-5689-4815-ACF7-8CB7D7AD5D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971175FD-5689-4815-ACF7-8CB7D7AD5D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CCDE22-FD04-4A33-B527-4E4792F6E5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CCDE22-FD04-4A33-B527-4E4792F6E5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CCDE22-FD04-4A33-B527-4E4792F6E5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CCDE22-FD04-4A33-B527-4E4792F6E5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8038C47-8415-47A1-B80D-702D06F109DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8038C47-8415-47A1-B80D-702D06F109DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8038C47-8415-47A1-B80D-702D06F109DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8038C47-8415-47A1-B80D-702D06F109DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C35B4A3-41DF-41D9-B276-E634E78973D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C35B4A3-41DF-41D9-B276-E634E78973D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C35B4A3-41DF-41D9-B276-E634E78973D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C35B4A3-41DF-41D9-B276-E634E78973D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF71FDF8-7894-4E5C-A07E-476A7202A8F9}
+	EndGlobalSection
+EndGlobal

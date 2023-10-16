@@ -1,0 +1,15 @@
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\bin\Debug\net6.0\minh.exe
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\bin\Debug\net6.0\minh.deps.json
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\bin\Debug\net6.0\minh.runtimeconfig.json
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\bin\Debug\net6.0\minh.dll
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\bin\Debug\net6.0\minh.pdb
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.AssemblyInfoInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.AssemblyInfo.cs
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.dll
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\refint\minh.dll
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.pdb
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\minh.genruntimeconfig.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\minh\minh\obj\Debug\net6.0\ref\minh.dll

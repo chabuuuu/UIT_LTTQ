@@ -1,0 +1,11 @@
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\bin\Debug\Chuong3-10-10-2023.exe.config
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\bin\Debug\Chuong3-10-10-2023.exe
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\bin\Debug\Chuong3-10-10-2023.pdb
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3-10-10-2023.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3-10-10-2023.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3_10_10_2023.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3_10_10_2023.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3-10-10-2023.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3-10-10-2023.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3-10-10-2023.exe
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong3-10-10-2023\Chuong3-10-10-2023\obj\Debug\Chuong3-10-10-2023.pdb

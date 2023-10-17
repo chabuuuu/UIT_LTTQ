@@ -1,0 +1,12 @@
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4-17-10.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4-17-10.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4_17_10.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4_17_10.Form2.resources
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4_17_10.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4-17-10.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4-17-10.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\bin\Debug\Chuong4-17-10.exe.config
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\bin\Debug\Chuong4-17-10.exe
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\bin\Debug\Chuong4-17-10.pdb
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4-17-10.exe
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\Chuong4-17-10\obj\Debug\Chuong4-17-10.pdb

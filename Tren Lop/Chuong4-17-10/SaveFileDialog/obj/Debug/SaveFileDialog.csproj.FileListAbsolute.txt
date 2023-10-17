@@ -1,0 +1,11 @@
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\bin\Debug\SaveFileDialog.exe.config
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\bin\Debug\SaveFileDialog.exe
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\bin\Debug\SaveFileDialog.pdb
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.exe
+D:\Workspace\UIT\UIT_LTTQ\Tren Lop\Chuong4-17-10\SaveFileDialog\obj\Debug\SaveFileDialog.pdb

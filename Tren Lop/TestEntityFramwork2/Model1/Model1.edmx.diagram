@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="97786600170a47fa9f8845cd91ea6001" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.BENHNHAN" Width="1.5" PointX="6" PointY="11.625" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.BENHNHANSUDUNGTAISAN" Width="1.5" PointX="14" PointY="12.5" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.DANGKYNOITRU" Width="1.5" PointX="11.25" PointY="4.25" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.DIEUTRI" Width="1.5" PointX="8.25" PointY="7.375" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.DONTHUOC" Width="1.5" PointX="6" PointY="1.125" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.GIADIEUTRI" Width="1.5" PointX="6" PointY="15" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.GIAXETNGHIEM" Width="1.5" PointX="8.25" PointY="4.125" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.KHOA" Width="1.5" PointX="0.75" PointY="7.75" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.LICHKHAM" Width="1.5" PointX="5.25" PointY="7.625" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.NHANVIEN" Width="1.5" PointX="8.75" PointY="16.375" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.NHANVIENSUDUNGTAISAN" Width="1.5" PointX="14" PointY="16.625" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.PHONG" Width="1.5" PointX="3" PointY="2.5" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.sysdiagram" Width="1.5" PointX="0.75" PointY="12.25" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.TAIKHOANLETAN" Width="1.5" PointX="11" PointY="14.375" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.TAIKHOANNHANVIENKYTHUAT" Width="1.5" PointX="11" PointY="22.5" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.TAIKHOANTRUONGKHOA" Width="1.5" PointX="5.25" PointY="18.375" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.TAIKHOANGIAMDOC" Width="1.5" PointX="11" PointY="16.875" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.TAISANCONG" Width="1.5" PointX="11.75" PointY="19.75" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.TUCTRUC" Width="1.5" PointX="5.25" PointY="3.875" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.THUOC" Width="1.5" PointX="8.25" PointY="0.75" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.XETNGHIEM" Width="1.5" PointX="10.5" PointY="7.875" />
+        <EntityTypeShape EntityType="QUANLYBENHVIENModel.YSI" Width="1.5" PointX="3" PointY="6.875" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MABENHNHAN_BNDUNGTS" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MABENHNHAN_DIEUTRI" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MABENHNHAN_DKNT" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MABENHNHAN_LICHKHAM" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MAGIUONG_BNDUNGTS" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MAPHONG_DKNT" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_LOAIDIEUTRI_DIEUTRI" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MADIEUTRI_XETNGHIEM" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MADONTHUOC_DIEUTRI" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MAYSI_DIEUTRI" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_LOAIXETNGHIEM_XETNGHIEM" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MAKHOA" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_TRUONGKHOA" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MABACSI_LICHKHAM" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MAPHONG_LICHKHAM" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MANHANVIEN" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MASO_ACCGD" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MASO_ACCLT" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MASO_ACCNVKT" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MATAISAN" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MAPHONG" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MASO_ACCTK" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_MAYSI" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.FK_CHIHUY" />
+        <AssociationConnector Association="QUANLYBENHVIENModel.CHITIETDONTHUOC" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

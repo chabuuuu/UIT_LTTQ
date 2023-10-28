@@ -1,0 +1,9 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\bin\Debug\Login.dll
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\bin\Debug\Login.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\obj\Debug\Login.UserControl1.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\obj\Debug\Login.dll
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong4_HaPhuThinh_22521405\Chuong4_HaPhuThinh_22521405\Login\obj\Debug\Login.pdb

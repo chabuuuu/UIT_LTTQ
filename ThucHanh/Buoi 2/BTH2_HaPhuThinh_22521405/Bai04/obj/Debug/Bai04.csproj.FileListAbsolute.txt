@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\bin\Debug\Bai04.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\bin\Debug\Bai04.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\bin\Debug\Bai04.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\obj\Debug\Bai04.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\obj\Debug\Bai04.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai04\obj\Debug\Bai04.pdb

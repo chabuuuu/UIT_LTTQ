@@ -1,0 +1,8 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\bin\Debug\Bai05.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\bin\Debug\Bai05.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\bin\Debug\Bai05.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\obj\Debug\Bai05.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\obj\Debug\Bai05.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\Buoi 2\BTH2_HaPhuThinh_22521405\Bai05\obj\Debug\Bai05.pdb

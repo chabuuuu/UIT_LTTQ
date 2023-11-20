@@ -1,0 +1,10 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\bin\Debug\Region_Example.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\bin\Debug\Region_Example.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\bin\Debug\Region_Example.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\obj\Debug\Region_Example.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\obj\Debug\Region_Example.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\obj\Debug\Region_Example.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\obj\Debug\Region_Example.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\obj\Debug\Region_Example.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\obj\Debug\Region_Example.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\Region_Example\obj\Debug\Region_Example.pdb

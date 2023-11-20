@@ -1,0 +1,11 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\bin\Debug\TextureBrush_Example.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\bin\Debug\TextureBrush_Example.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\bin\Debug\TextureBrush_Example.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\TextureBrush_Example\obj\Debug\TextureBrush_Example.pdb

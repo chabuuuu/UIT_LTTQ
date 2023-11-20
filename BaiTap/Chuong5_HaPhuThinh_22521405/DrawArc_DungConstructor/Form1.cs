@@ -19,17 +19,24 @@ namespace DrawArc_DungConstructor
         {
             InitializeComponent();
         }
-        private void DrawArc_Paint(object sender, PaintEventArgs e)
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            startAngle = (float)Convert.ToDouble(textBox1.Text);
+            sweepAngle = (float)Convert.ToDouble(textBox2.Text);
+            Invalidate();
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
             Rectangle rect = new Rectangle(200, 20, 200, 200);
             g.DrawArc(Pens.Red, rect, startAngle, sweepAngle);
         }
-        private void button1_Click(object sender, EventArgs e)
+
+        private void label1_Click(object sender, EventArgs e)
         {
-            startAngle = (float)Convert.ToDouble(textBox1.Text);
-            sweepAngle = (float)Convert.ToDouble(textBox2.Text);
-            Invalidate();
+
         }
     }
 }

@@ -1,0 +1,10 @@
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\bin\Debug\DrawLine_DungContrustor.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\bin\Debug\DrawLine_DungContrustor.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\bin\Debug\DrawLine_DungContrustor.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\obj\Debug\DrawLine_DungContrustor.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\obj\Debug\DrawLine_DungContrustor.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\obj\Debug\DrawLine_DungContrustor.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\obj\Debug\DrawLine_DungContrustor.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\obj\Debug\DrawLine_DungContrustor.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\obj\Debug\DrawLine_DungContrustor.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\DrawLine_DungContrustor\obj\Debug\DrawLine_DungContrustor.pdb

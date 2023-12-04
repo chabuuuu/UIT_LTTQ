@@ -1,0 +1,10 @@
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\bin\Debug\BTGame_VongTron.exe.config
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\bin\Debug\BTGame_VongTron.exe
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\bin\Debug\BTGame_VongTron.pdb
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\obj\Debug\BTGame_VongTron.csproj.AssemblyReference.cache
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\obj\Debug\BTGame_VongTron.Form1.resources
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\obj\Debug\BTGame_VongTron.Properties.Resources.resources
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\obj\Debug\BTGame_VongTron.csproj.GenerateResource.cache
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\obj\Debug\BTGame_VongTron.csproj.CoreCompileInputs.cache
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\obj\Debug\BTGame_VongTron.exe
+D:\UIT\C#\BTGame_VongTron\BTGame_VongTron\obj\Debug\BTGame_VongTron.pdb

@@ -1,0 +1,11 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\bin\Debug\Bai02.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\bin\Debug\Bai02.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\bin\Debug\Bai02.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\LAB4_HaPhuThinh_22521405\Bai02\obj\Debug\Bai02.pdb

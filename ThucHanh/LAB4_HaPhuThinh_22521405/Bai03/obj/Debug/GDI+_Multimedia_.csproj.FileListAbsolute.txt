@@ -1,0 +1,47 @@
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.exe.config
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.exe
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.pdb
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\bin\Debug\Interop.WMPLib.dll
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.AssemblyReference.cache
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\Interop.WMPLib.dll
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.ResolveComReference.cache
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI__Multimedia_.Form1.resources
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI__Multimedia_.Properties.Resources.resources
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.GenerateResource.cache
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.CoreCompileInputs.cache
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.exe
+C:\Users\MINH TOAN\source\repos\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.pdb
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.exe.config
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.exe
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.pdb
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.AssemblyReference.cache
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.ResolveComReference.cache
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI__Multimedia_.Form1.resources
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI__Multimedia_.Properties.Resources.resources
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.GenerateResource.cache
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.CoreCompileInputs.cache
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.exe
+C:\Users\Ha Phu\Downloads\Chuong5_GDI+_LeMinhToan_22521489\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.exe.config
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\bin\Debug\GDI+_Multimedia_.pdb
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\bin\Debug\Interop.WMPLib.dll
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\bin\Debug\AxInterop.WMPLib.dll
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\Interop.WMPLib.dll
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\AxInterop.WMPLib.dll
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.ResolveComReference.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI__Multimedia_.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI__Multimedia_.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.exe
+D:\Workspace\UIT\UIT_LTTQ\BaiTap\Chuong5_HaPhuThinh_22521405\GDI+_Multimedia_\obj\Debug\GDI+_Multimedia_.pdb

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BaiTap2_ChuongTrinhSoanVanBan.Properties {
+namespace Bai05.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace BaiTap2_ChuongTrinhSoanVanBan.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BaiTap2_ChuongTrinhSoanVanBan.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Bai05.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,29 +63,9 @@ namespace BaiTap2_ChuongTrinhSoanVanBan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _160476 {
+        internal static System.Drawing.Bitmap _228122 {
             get {
-                object obj = ResourceManager.GetObject("160476", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _4136712 {
-            get {
-                object obj = ResourceManager.GetObject("4136712", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap open_file_icon_vector_22881300 {
-            get {
-                object obj = ResourceManager.GetObject("open-file-icon-vector-22881300", resourceCulture);
+                object obj = ResourceManager.GetObject("228122", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

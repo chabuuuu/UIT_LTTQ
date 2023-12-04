@@ -55,6 +55,8 @@ namespace BaiTap2_ChuongTrinhSoanVanBan
             // Đặt font mới cho văn bản được chọn trong RichTextBox
             richTextBox1.Font = newFont;
             richTextBox1.SelectionFont = newFont;
+            comboBox1.SelectedItem = selectedFont;
+
 
         }
         public void updateSize()
@@ -75,6 +77,7 @@ namespace BaiTap2_ChuongTrinhSoanVanBan
             // Đặt font mới cho văn bản được chọn trong RichTextBox
             richTextBox1.Font = newFont;
             richTextBox1.SelectionFont = newFont;
+            comboBox2.SelectedItem = this.selectedSize;
         }
 
         private void colorToolStripMenuItem_Click(object sender, EventArgs e)
@@ -150,6 +153,84 @@ namespace BaiTap2_ChuongTrinhSoanVanBan
                     richTextBox1.LoadFile(openFileDialog.FileName, RichTextBoxStreamType.PlainText);
                 }
             }
+        }
+        private void ApplyFormatting(FontStyle style)
+        {
+            if (richTextBox1.SelectionLength > 0)
+            {
+                richTextBox1.SelectionFont = new System.Drawing.Font(
+                    richTextBox1.SelectionFont,
+                    richTextBox1.SelectionFont.Style ^ style
+                );
+            }
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ApplyFormatting(FontStyle.Bold);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ApplyFormatting(FontStyle.Italic);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ApplyFormatting(FontStyle.Underline);
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Control && e.KeyCode == Keys.S)
+            {
+                // Xử lý sự kiện Ctrl + S
+                if (richTextBox1.Tag != null)
+                {
+                    richTextBox1.SaveFile(richTextBox1.Tag.ToString(), RichTextBoxStreamType.RichText);
+                    MessageBox.Show("File saved successfully.");
+                }
+                else
+                {
+                    // Nếu không, hiển thị hộp thoại lưu tập tin mới
+                    using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+                    {
+                        saveFileDialog.Filter = "Text Files (*.txt)|*.txt|Rich Text Files (*.rtf)|*.rtf|All Files (*.*)|*.*";
+                        if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                        {
+                            richTextBox1.SaveFile(saveFileDialog.FileName, RichTextBoxStreamType.PlainText);
+                            richTextBox1.Tag = saveFileDialog.FileName;
+                            MessageBox.Show("File saved successfully.");
+                        }
+                    }
+
+                }
+
+                // Ngăn chặn sự kiện được chuyển đến các controls khác (ví dụ: TextBox)
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+            }
+            if (e.Control && e.KeyCode == Keys.N)
+            {
+                richTextBox1.Clear();
+                this.selectedFont = "Tahoma";
+                this.selectedSize = "14";
+                updateFont();
+                updateSize();
+            }
+        }
+
+        private void newToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Clear();
+            this.selectedFont = "Tahoma";
+            this.selectedSize = "14";
+            updateFont();
+            updateSize();
         }
     }
 }

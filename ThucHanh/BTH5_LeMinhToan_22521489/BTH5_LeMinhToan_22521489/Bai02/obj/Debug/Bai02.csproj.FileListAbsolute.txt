@@ -1,0 +1,21 @@
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.Form1.resources
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\bin\Debug\Bai02.exe.config
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\bin\Debug\Bai02.exe
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\bin\Debug\Bai02.pdb
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.exe
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\bin\Debug\Bai02.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\bin\Debug\Bai02.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\bin\Debug\Bai02.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai02\obj\Debug\Bai02.pdb

@@ -1,0 +1,33 @@
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.Form1.resources
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.csproj.GenerateResource.cache
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.AssemblyInfoInputs.cache
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.AssemblyInfo.cs
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.csproj.CoreCompileInputs.cache
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.exe
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.deps.json
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.runtimeconfig.json
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.dll
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.pdb
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.dll
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\refint\Bai01.dll
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.pdb
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.genruntimeconfig.cache
+C:\Users\MINH TOAN\source\repos\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\ref\Bai01.dll
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.deps.json
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.runtimeconfig.json
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.dll
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\bin\Debug\net6.0-windows\Bai01.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.AssemblyInfoInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.AssemblyInfo.cs
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.dll
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\refint\Bai01.dll
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\Bai01.genruntimeconfig.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\BTH5_LeMinhToan_22521489\BTH5_LeMinhToan_22521489\Bai01\obj\Debug\net6.0-windows\ref\Bai01.dll

@@ -1,0 +1,13 @@
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\bin\Debug\22521405_HaPhuThinh.exe.config
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\bin\Debug\22521405_HaPhuThinh.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\bin\Debug\22521405_HaPhuThinh.pdb
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\22521405_HaPhuThinh.csproj.AssemblyReference.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\22521405_HaPhuThinh.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\_22521405_HaPhuThinh.Form1.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\_22521405_HaPhuThinh.FormGioiThieu.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\_22521405_HaPhuThinh.FormThem.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\_22521405_HaPhuThinh.Properties.Resources.resources
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\22521405_HaPhuThinh.csproj.GenerateResource.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\22521405_HaPhuThinh.csproj.CoreCompileInputs.cache
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\22521405_HaPhuThinh.exe
+D:\Workspace\UIT\UIT_LTTQ\ThucHanh\THICK\22521405_HaPhuThinh\22521405_HaPhuThinh\obj\Debug\22521405_HaPhuThinh.pdb
